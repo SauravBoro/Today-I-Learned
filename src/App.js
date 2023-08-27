@@ -3,7 +3,7 @@ import supabase from "./supabase";
 
 import "./style.css";
 
-const initialFacts = [
+/*const initialFacts = [
   {
     id: 1,
     text: "React is being developed by Meta (formerly facebook)",
@@ -49,7 +49,7 @@ function Counter() {
     </div>
   );
 }
-
+*/
 function App() {
   const [showForm, setShowForm] = useState(false);
   const [facts, setFacts] = useState([]);
