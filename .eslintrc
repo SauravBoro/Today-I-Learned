@@ -1,7 +1,0 @@
-{
-  "root": true,
-  "extends": "@upstatement/eslint-config/react",
-"rules": {
-"no-unused-vars": "off"
-}
-}
